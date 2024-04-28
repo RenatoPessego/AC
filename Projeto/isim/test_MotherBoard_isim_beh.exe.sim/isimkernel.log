@@ -1,0 +1,29 @@
+Command line:
+   test_MotherBoard_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  62756
+
+Fri Mar 15 15:40:55 2024
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5155.5 Meg
+
+ Total Signals          : 115
+ Total Nets             : 2255
+ Total Signal Drivers   : 37
+ Total Blocks           : 19
+ Total Primitive Blocks : 16
+ Total Processes        : 17
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 2757
+Total Line Count : 156
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 4998.22 Meg
+
+Fri Mar 15 15:42:21 2024
+
