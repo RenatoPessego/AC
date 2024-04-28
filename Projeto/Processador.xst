@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/xst"
+elaborate
+-ifn Processador.prj
+-ifmt mixed

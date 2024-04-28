@@ -1,0 +1,52 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.18 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.19 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/Peri_Entrada.vhd" in Library work.
+Architecture behavioral of Entity peri_entrada is up to date.
+Compiling vhdl file "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/Peri_Saida.vhd" in Library work.
+Architecture behavioral of Entity peri_saida is up to date.
+Compiling vhdl file "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/ALU.vhd" in Library work.
+Architecture behavioral of Entity alu is up to date.
+Compiling vhdl file "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/Reg_Flags.vhd" in Library work.
+Architecture behavioral of Entity reg_flags is up to date.
+Compiling vhdl file "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/Mux_PC.vhd" in Library work.
+Architecture behavioral of Entity mux_pc is up to date.
+Compiling vhdl file "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/Banco_Reg.vhd" in Library work.
+Architecture behavioral of Entity banco_reg is up to date.
+Compiling vhdl file "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/MUX_R.vhd" in Library work.
+Architecture behavioral of Entity mux_r is up to date.
+Compiling vhdl file "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/PC.vhd" in Library work.
+Architecture behavioral of Entity pc is up to date.
+Compiling vhdl file "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/ROM_Descod.vhd" in Library work.
+Architecture behavioral of Entity rom_descod is up to date.
+Compiling vhdl file "C:/Users/paulo/Desktop/AC/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/Processador.vhd" in Library work.
+Architecture struct of Entity processador is up to date.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.58 secs
+ 
+--> 
+
+Total memory usage is 4476464 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
