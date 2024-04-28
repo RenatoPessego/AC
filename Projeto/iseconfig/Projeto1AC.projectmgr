@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Projeto1AC" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Processador - Struct C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|Processador.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Memoria_Instrucoes - Memoria_Instr - Behavioral (C:/Users/Renato/Documents/Projeto1AC/Memoria_Instr.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >7</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001d4000000020000000000000000000000000200000064ffffffff000000810000000300000002000001d40000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Memoria_Instrucoes - Memoria_Instr - Behavioral (C:/Users/Renato/Documents/Projeto1AC/Memoria_Instr.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002d2000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000002060000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ALU.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/MotherBoard - Struct C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|MotherBoard.vhd/CPU - Processador - Struct</ClosedNode>
+         <ClosedNode>/test_ALU - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|test_ALU.vhd</ClosedNode>
+         <ClosedNode>/test_ALU - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|test_ALU.vhd</ClosedNode>
+         <ClosedNode>/test_Banco_Reg - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|banco_reg_test.vhd</ClosedNode>
+         <ClosedNode>/test_Banco_Reg - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|banco_reg_test.vhd</ClosedNode>
+         <ClosedNode>/test_CPU - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|test_CPU.vhd</ClosedNode>
+         <ClosedNode>/test_CPU - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|test_CPU.vhd</ClosedNode>
+         <ClosedNode>/test_MUXPC - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|test_MUXPC.vhd</ClosedNode>
+         <ClosedNode>/test_MUXPC - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|test_MUXPC.vhd</ClosedNode>
+         <ClosedNode>/test_MUXR - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|test_MUXR.vhd</ClosedNode>
+         <ClosedNode>/test_MUXR - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|test_MUXR.vhd</ClosedNode>
+         <ClosedNode>/test_Memoria_Dados - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|test_Memoria_Dados.vhd</ClosedNode>
+         <ClosedNode>/test_Memoria_Dados - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|test_Memoria_Dados.vhd</ClosedNode>
+         <ClosedNode>/test_Memoria_Instr - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|test_Memoria_Instr.vhd</ClosedNode>
+         <ClosedNode>/test_Memoria_Instr - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|test_Memoria_Instr.vhd</ClosedNode>
+         <ClosedNode>/test_MotherBoard - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|test_MotherBoard.vhd</ClosedNode>
+         <ClosedNode>/test_MotherBoard - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|test_MotherBoard.vhd</ClosedNode>
+         <ClosedNode>/test_PC - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|test_PC.vhd</ClosedNode>
+         <ClosedNode>/test_PC - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|test_PC.vhd</ClosedNode>
+         <ClosedNode>/test_PeriSaida - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|test_PeriSaida.vhd</ClosedNode>
+         <ClosedNode>/test_PeriSaida - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|test_PeriSaida.vhd</ClosedNode>
+         <ClosedNode>/test_ROM - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|test_ROM.vhd</ClosedNode>
+         <ClosedNode>/test_ROM - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|test_ROM.vhd</ClosedNode>
+         <ClosedNode>/testar_RegFlag - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|testar_RegFlag.vhd</ClosedNode>
+         <ClosedNode>/testar_RegFlag - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|testar_RegFlag.vhd</ClosedNode>
+         <ClosedNode>/teste_PeriEntrada - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC-Renato|teste_PeriEntrada.vhd</ClosedNode>
+         <ClosedNode>/teste_PeriEntrada - behavior C:|Users|paulo|Desktop|AC|XLINX|Projeto1AC|teste_PeriEntrada.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>test_MotherBoard - behavior (C:/Users/Renato/Documents/Projeto1AC/test_MotherBoard.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >23</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001e8000000020000000000000000000000000200000064ffffffff000000810000000300000002000001e80000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>test_MotherBoard - behavior (C:/Users/Renato/Documents/Projeto1AC/test_MotherBoard.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>
