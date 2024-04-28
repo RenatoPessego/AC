@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Renato/Documents/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/test_MotherBoard_isim_beh.exe" -prj "C:/Users/Renato/Documents/Projeto_um_AC-PAULOALVES.2120722_RENATOPESSEGO.2121922/test_MotherBoard_beh.prj" "work.test_MotherBoard" 
